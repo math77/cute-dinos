@@ -1,4 +1,4 @@
-# Modern Dino
+# Cute Dinos
 
 A NFT project never launched ("made" in 2021)
 
