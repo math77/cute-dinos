@@ -1,0 +1,42 @@
+.navbar {
+  background-color: #000000 !important;
+}
+
+
+#logo {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-weight: 800;
+  font-family: 'Erasaur';
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+
+#navbar-items {
+  margin-top: 14px;
+  margin-left: 15px;
+  font-family: 'Erasaur';
+  font-weight: bold;
+}
+
+.navbar-item {
+  color: #FFFFFF !important;
+}
+
+.navbar-item:hover {
+  color: #ee4b74 !important;
+}
+
+
+#logo-footer {
+  font-weight: 800;
+  font-family: 'Montserrat', sans-serif;
+  color: '#ffffff';
+}
+
+#credits {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 0.6rem;
+}

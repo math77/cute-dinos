@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Erasaur'; /*a name to be used later*/
+    src: url('./assets/fonts/Erasaur.otf'); /*URL to font*/
+}
+
+* {
+  font-family: 'Erasaur';
+  color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul li::marker {
+  content: '💡';
+}
+
+.page-title {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 6rem;
+}
+
+.infos {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.infos-2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+  background-color: #000000;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.idea {
+  font-size: 1rem;
+}
+
+.question {
+  font-size: 2rem;
+}
+
+.answer {
+  font-size: 1rem;
+  color: #F1F1F1;
+}
+
+#banner-welcome {
+  background-image: url("./assets/images/board2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#get-dino-banner {
+  background-image: url("./assets/images/back1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#btn-mint-dino {
+  font-family: 'Erasaur';
+}
